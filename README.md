@@ -1,5 +1,9 @@
 # Active Surfaces: Chan-Vese Segmentation
 
+![Alt text](/imgs/level_set.png "")
+
+![Alt text](/imgs/lambdas.png "")
+
 The Chan-Vese segmentation algorithm is a classic technique that allows segmenting objects without clearly defined boundaries
 and made up of potentially several disconnected regions.
 
